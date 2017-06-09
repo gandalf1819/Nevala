@@ -1,0 +1,17 @@
+c:\users\chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\bin\Debug\Nevala.exe.config
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\obj\Debug\Nevala.csprojResolveAssemblyReference.cache
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\obj\Debug\App.g.cs
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\obj\Debug\Nevala_MarkupCompile.cache
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\obj\Debug\FontDialog.g.cs
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\obj\Debug\Nevala_MarkupCompile.lref
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\bin\Debug\Nevala.exe
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\bin\Debug\Nevala.pdb
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\obj\Debug\MainWindow.g.cs
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\obj\Debug\FontDialog.baml
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\obj\Debug\MainWindow.baml
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\obj\Debug\Nevala.g.resources
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\obj\Debug\Nevala.Properties.Resources.resources
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\obj\Debug\Nevala.csproj.GenerateResource.Cache
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\obj\Debug\Nevala.exe
+c:\Users\Chinmay\documents\visual studio 2015\Projects\Nevala\Nevala\obj\Debug\Nevala.pdb
