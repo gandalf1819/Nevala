@@ -13,6 +13,7 @@ namespace Nevala.ViewModels
     {
         public ICommand FormatCommand { get; }
         public ICommand WrapCommand { get; }
+        public ICommand UndoCommand { get; }
         public FormatModel Format { get; set; }
         public DocumentModel Document { get; set; }
 
@@ -23,6 +24,7 @@ namespace Nevala.ViewModels
             Format = new FormatModel();
             FormatCommand = new RelayCommand(OpenStyleDialog);
             WrapCommand = new RelayCommand(ToggleWrap);
+            UndoCommand = new RelayCommand(Undo_);
         }
 
         public void OpenStyleDialog()
@@ -38,6 +40,11 @@ namespace Nevala.ViewModels
                 Format.Wrap = System.Windows.TextWrapping.NoWrap;
             else
                 Format.Wrap = System.Windows.TextWrapping.Wrap;
+        }
+
+        private void Undo_()
+        {
+
         }
 
     }

@@ -22,7 +22,7 @@ namespace Nevala.Models
         {
             get { return _weight; }
             set { OnPropertyChanged(ref _weight, value); }
-            }
+        }
 
         private FontFamily _family;
         public FontFamily Family
@@ -55,5 +55,6 @@ namespace Nevala.Models
             get { return _size; }
             set { OnPropertyChanged(ref _size, value); }
         }
+
     }
 }

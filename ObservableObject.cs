@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;   
+
 namespace Nevala
 {
     public class ObservableObject : INotifyPropertyChanged

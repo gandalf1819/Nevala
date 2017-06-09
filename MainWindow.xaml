@@ -23,7 +23,8 @@
                     <MenuItem Header="Format" DataContext="{Binding Editor}" >
                         <MenuItem Header="Format" Command="{Binding FormatCommand }" />
                         <MenuItem Header="Word wrap" Command="{Binding WrapCommand }" />
-                    </MenuItem>
+                        <MenuItem Header="Undo" Command="{Binding UndoCommand }" />
+                </MenuItem>
                     <MenuItem Header="Help" DataContext="{Binding Help}">
                         <MenuItem Header="About" Command="{Binding HelpCommand}" />
 

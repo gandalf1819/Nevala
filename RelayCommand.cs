@@ -14,8 +14,8 @@ namespace Nevala
 
         public RelayCommand(Action execute, Func<bool> canExecute)
         {
-            if (execute == null)
-               throw new NullReferenceException("execute");
+            //if (execute == null)
+               //throw new NullReferenceException("execute");
 
             _execute = execute;
                 _canExecute = canExecute;
